@@ -55,7 +55,6 @@ C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI\obj\Debug\net5.0\stati
 C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI\obj\Debug\net5.0\MyToDoBookAPI.RazorTargetAssemblyInfo.cache
 C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI\obj\Debug\net5.0\MyToDoBookAPI.csproj.CopyComplete
 C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI\obj\Debug\net5.0\MyToDoBookAPI.dll
-C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI\obj\Debug\net5.0\refint\MyToDoBookAPI.dll
 C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI\obj\Debug\net5.0\MyToDoBookAPI.pdb
 C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI\obj\Debug\net5.0\MyToDoBookAPI.genruntimeconfig.cache
 C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI\obj\Debug\net5.0\ref\MyToDoBookAPI.dll
@@ -73,3 +72,5 @@ C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI\bin\Debug\net5.0\Micro
 C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI\bin\Debug\net5.0\ref\MyToDoBookAPI.dll
+C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI\obj\Debug\net5.0\staticwebassets\MyToDoBookAPI.StaticWebAssets.xml

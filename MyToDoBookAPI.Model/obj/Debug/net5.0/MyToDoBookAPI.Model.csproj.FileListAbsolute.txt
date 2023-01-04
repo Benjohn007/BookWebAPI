@@ -9,7 +9,7 @@ C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI.Model\obj\Debug\net5.0
 C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI.Model\obj\Debug\net5.0\MyToDoBookAPI.Model.AssemblyInfo.cs
 C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI.Model\obj\Debug\net5.0\MyToDoBookAPI.Model.csproj.CoreCompileInputs.cache
 C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI.Model\obj\Debug\net5.0\MyToDoBookAPI.Model.dll
-C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI.Model\obj\Debug\net5.0\refint\MyToDoBookAPI.Model.dll
 C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI.Model\obj\Debug\net5.0\MyToDoBookAPI.Model.pdb
 C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI.Model\obj\Debug\net5.0\MyToDoBookAPI.Model.genruntimeconfig.cache
 C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI.Model\obj\Debug\net5.0\ref\MyToDoBookAPI.Model.dll
+C:\Users\Decagon\source\repos\MyToDoBookAPI\MyToDoBookAPI.Model\bin\Debug\net5.0\ref\MyToDoBookAPI.Model.dll
